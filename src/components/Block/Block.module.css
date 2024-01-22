@@ -1,0 +1,9 @@
+.sectionMoreDesktop {
+  margin: 15px 0 40px;
+}
+
+@media (min-width: 768px) {
+  .sectionMoreDesktop {
+    display: inline-block;
+  }
+}
